@@ -1,0 +1,105 @@
+﻿nome_paciente;idade;sexo;bairro_moradia;febre;manchas_na_pele;dor_muscular;vômito;diarréia;dor_de_cabeça;tem_dengue;tipo_dengue
+Maria Santos;32;F;Jardim América;Sim;Não;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Pedro Rocha;42;M;Setor Bueno;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Ana Paula;19;F;Parque Amazônia;Não;Sim;Sim;Não;Não;Sim;Não;-
+Paulo Souza;36;M;Jardim Guanabara;Sim;Sim;Não;Não;Não;Sim;Não;-
+Juliana Lima;28;F;Setor Aeroporto;Sim;Não;Sim;Não;Sim;Sim;Sim;Dengue Clássico
+Marcos Silva;47;M;Setor Marista;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Carla Alves;22;F;Vila Nova;Sim;Não;Não;Não;Não;Não;Não;-
+Rafaela Sousa;25;F;Jardim Goiás;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Clássico
+Luiz Silva;30;M;Parque Anhanguera;Sim;Sim;Não;Não;Não;Sim;Não;-
+Renata Oliveira;29;F;Vila Aurora;Sim;Sim;Não;Não;Não;Sim;Sim;Dengue Clássico
+Bruno Carvalho;36;M;Jardim Europa;Sim;Não;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Fernanda Souza;23;F;Jardim Petrópolis;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Hemorrágico
+Tiago Rocha;40;M;Setor Sul;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Clássico
+Isabela Santos;18;F;Parque das Laranjeiras;Sim;Sim;Não;Não;Não;Sim;Não;-
+Marcos Oliveira;35;M;Setor Bueno;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Larissa Silva;27;F;Jardim América;Sim;Não;Sim;Não;Sim;Sim;Sim;Dengue Clássico
+Carlos Ferreira;33;M;Setor Coimbra;Sim;Sim;Não;Não;Não;Sim;Não;-
+Ana Luiza;26;F;Parque Anhanguera;Sim;Não;Não;Não;Sim;Sim;Não;-
+Henrique Gomes;21;M;Setor Pedro Ludovico;Sim;Sim;Não;Não;Sim;Sim;Não;-
+Luana Almeida;30;F;Jardim Goiás;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Gustavo Oliveira;38;M;Setor Marista;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Dengue Hemorrágico
+Daniela Costa;24;F;Setor Universitário;Sim;Não;Não;Não;Não;Sim;Não;-
+Ricardo Souza;42;M;Vila Brasília;Sim;Não;Sim;Sim;Sim;Sim;Sim;Dengue Clássico
+Joao Santos;29;M;Parque Atheneu;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Maria Silva;38;F;Vila Nova;Sim;Sim;Não;Não;Não;Sim;Não;-
+Rodrigo Alves;44;M;Setor Oeste;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Fernanda Martins;28;F;Jardim Guanabara;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Gabriel Rodrigues;24;M;Jardim Nova Esperança;Sim;Não;Não;Não;Sim;Sim;Não;-
+Ana Paula Oliveira;32;F;Setor Leste Universitário;Sim;Não;Não;Não;Não;Sim;Não;-
+Lucas Ferreira;27;M;Setor Pedro Ludovico;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Paula Souza;21;F;Jardim América;Sim;Não;Não;Não;Não;Sim;Não;-
+Rafaela Santos;25;F;Setor Bueno;Sim;Não;Sim;Não;Sim;Sim;Sim;Dengue Clássico
+Tiago Oliveira;23;M;Jardim Europa;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Carla Souza;35;F;Jardim Atlântico;Sim;Não;Não;Não;Não;Sim;Não;-
+Felipe Pereira;42;M;Vila Nova;Sim;Sim;Sim;Sim;Sim;Sim;Sim;Dengue Hemorrágico
+Beatriz Santos;18;F;Setor Aeroporto;Sim;Não;Não;Não;Não;Sim;Não;-
+Gustavo Souza;30;M;Jardim Goiás;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Luana Lima;31;F;Jardim América;Sim;Não;Não;Não;Não;Sim;Não;-
+Rafael Santos;40;M;Setor Bueno;Sim;Não;Não;Não;Sim;Sim;Não;-
+Carolina Sousa;29;F;Setor Pedro Ludovico;Sim;Sim;Não;Não;Não;Sim;Não;-
+Lucas Oliveira;24;M;Jardim Guanabara;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Ana Luíza Santos;23;F;Setor Sul;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Henrique Almeida;26;M;Setor Leste Vila Nova;Sim;Não;Não;Não;Não;Sim;Não;-
+Isabela Ferreira;33;F;Jardim Novo Mundo;Sim;Não;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Mateus Souza;36;M;Setor Sul;Sim;Sim;Sim;Não;Sim;Sim;Sim;Dengue Hemorrágico
+Mariana Costa;22;F;Jardim Atlântico;Sim;Sim;Não;Não;Não;Sim;Não;-
+Bruno Santos;32;M;Parque Anhanguera;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Paula Oliveira;30;F;Jardim América;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Thiago Lima;29;M;Setor Leste Universitário;Sim;Não;Não;Não;Não;Sim;Não;-
+Camila Costa;27;F;Jardim Planalto;Sim;Não;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Gabriel Almeida;35;M;Setor Coimbra;Sim;Sim;Sim;Não;Sim;Sim;Sim;Dengue Hemorrágico
+Joao Silva;37;M;Setor Aeroporto;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Hemorrágico
+Rafaela Martins;25;F;Setor Negrão de Lima;Sim;Não;Não;Não;Não;Sim;Não;-
+Marcos Oliveira;31;M;Setor Bela Vista;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Clássico
+Isadora Santos;20;F;Jardim Goiás;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Hemorrágico
+Luiz Felipe Costa;26;M;Setor Marista;Sim;Não;Não;Não;Não;Sim;Não;-
+Carla Rodrigues;34;F;Setor Oeste;Sim;Sim;Não;Não;Não;Sim;Não;-
+Felipe Oliveira;39;M;Jardim Petrópolis;Sim;Não;Não;Sim;Sim;Sim;Sim;Dengue Hemorrágico
+Fernanda Santos;22;F;Setor Bueno;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Pedro Mendes;41;M;Setor Leste Vila Nova;Sim;Sim;Não;Não;Não;Sim;Não;-
+Thais Alves;28;F;Jardim Atlântico;Sim;Não;Não;Não;Não;Sim;Não;-
+Lucas Castro;24;M;Setor Sul;Sim;Não;Sim;Sim;Sim;Sim;Sim;Dengue Hemorrágico
+Ana Beatriz Silva;33;F;Jardim América;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Renato Santos;30;M;Parque Amazônia;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Larissa Souza;27;F;Jardim Novo Mundo;Sim;Não;Não;Não;Não;Sim;Não;-
+Leticia Martins;23;F;Setor Universitário;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Leonardo Oliveira;32;M;Setor Pedro Ludovico;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Clássico
+Maria Almeida;42;F;Setor Jardim América;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Hemorrágico
+Joaquim Santos;45;M;Setor Goiânia II;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Fernanda Souza;29;F;Setor Santa Genoveva;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Pedro Henrique Dias;27;M;Setor Coimbra;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Clássico
+Carla Silva;38;F;Setor Leste Universitário;Sim;Não;Sim;Não;Não;Sim;Não;-
+Guilherme Santos;24;M;Setor Sul;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Camila Oliveira;26;F;Setor Campinas;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Alexandre Almeida;31;M;Setor Norte Ferroviário;Sim;Não;Sim;Não;Sim;Sim;Sim;Dengue Clássico
+Mariana Castro;37;F;Setor Vila Nova;Sim;Não;Não;Não;Não;Sim;Não;-
+Gustavo Souza;30;M;Setor Oeste;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Juliana Carvalho;28;F;Setor Morada do Sol;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Luíza Mendes;19;F;Setor Bueno;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Rafaela Souza;23;F;Setor Urias Magalhães;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Paulo Rocha;36;M;Setor Parque Amazônia;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Isabela Castro;28;F;Setor Novo Horizonte;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Clássico
+Gabriel Fernandes;32;M;Setor Rodoviário;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Mariana Ribeiro;25;F;Setor Recanto das Minas;Sim;Não;Não;Não;Não;Não;Não;-
+André Alves;30;M;Setor Bela Vista;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Julia Santos;22;F;Setor Garavelo;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Clássico
+Victor Castro;29;M;Setor Balneário;Sim;Não;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Mariana Fernandes;24;F;Setor Sudoeste;Sim;Sim;Não;Não;Não;Sim;Sim;Dengue Clássico
+Gustavo Carvalho;27;M;Setor Residencial Vale do Sol;Sim;Sim;Sim;Não;Sim;Sim;Sim;Dengue Hemorrágico
+Leticia Oliveira;26;F;Setor Faiçalville;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Hemorrágico
+Renato Barbosa;33;M;Setor Jardim das Oliveiras;Sim;Sim;Não;Não;Sim;Sim;Sim;Dengue Clássico
+Rafael Silva;24;M;Setor Pedro Ludovico;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Clássico
+Juliana Oliveira;29;F;Setor Negrão de Lima;Sim;Não;Não;Não;Não;Não;Não;-
+Carlos Eduardo;35;M;Setor Santa Genoveva;Sim;Não;Não;Não;Não;Não;Não;-
+Fernanda Martins;27;F;Setor Jardim América;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Guilherme Rodrigues;31;M;Setor Vila Maria Luiza;Sim;Sim;Não;Não;Não;Sim;Sim;Dengue Clássico
+Natália Ribeiro;23;F;Setor Vila Nova;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Luana Pereira;20;F;Setor Coimbra;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Luiz Henrique;33;M;Setor Santa Luzia;Sim;Sim;Sim;Sim;Não;Sim;Sim;Dengue Clássico
+Gabriela Santos;22;F;Setor Marista;Sim;Sim;Não;Não;Não;Sim;Sim;Dengue Clássico
+Vinicius Oliveira;28;M;Setor São José;Sim;Não;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Livia Sousa;25;F;Setor Jardim Novo Mundo;Sim;Sim;Não;Sim;Não;Sim;Sim;Dengue Hemorrágico
+Ricardo Silva;30;M;Setor Aeroporto;Sim;Sim;Sim;Não;Não;Sim;Sim;Dengue Clássico
+Mariana Costa;26;F;Setor Sul;Sim;Sim;Não;Não;Não;Sim;Sim;Dengue Clássico
